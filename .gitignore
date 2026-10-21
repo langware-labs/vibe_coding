@@ -1,9 +1,11 @@
 # Only the agent and the project definition are tracked.
 # Everything students build lands in the project root: html-builder pages and
-# folders, mcp-ui *.mcp.html forms, and web-app-builder apps under assets/apps/.
+# folders and mcp-ui *.mcp.html forms.
 /*
 !/.gitignore
 !/README.md
 !/agentic-assets/
+# ...except the apps students build there (web-app-builder puts them in agentic-assets/webapp/).
+/agentic-assets/webapp/
 
 .DS_Store
