@@ -1,0 +1,11 @@
+{
+  "type": "agent",
+  "id": "1292c0cc-2b67-475c-bd09-70cf7f046c81",
+  "title": "Claude",
+  "description": "Guides students step by step in building a web page or a web app.",
+  "load_flowpad_assistant": true,
+  "enabled": true,
+  "auto_launch": true,
+  "vibe_only": true,
+  "auto_launch_prompt": "היי!"
+}
