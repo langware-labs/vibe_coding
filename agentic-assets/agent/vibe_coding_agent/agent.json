@@ -7,5 +7,9 @@
   "enabled": true,
   "auto_launch": true,
   "vibe_only": true,
-  "auto_launch_prompt": "היי!"
+  "auto_launch_prompt": "היי!",
+  "disallowed_tools": [
+    "Edit(agentic-assets/**)",
+    "Write(agentic-assets/**)"
+  ]
 }
