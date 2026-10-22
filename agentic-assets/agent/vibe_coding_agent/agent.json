@@ -4,6 +4,12 @@
   "title": "Claude",
   "description": "Guides students step by step in building a web page or a web app.",
   "load_flowpad_assistant": true,
+  "assistant_skills": [
+    "frontend-design",
+    "html-builder",
+    "light-web-app-builder",
+    "web-tester"
+  ],
   "enabled": true,
   "auto_launch": true,
   "vibe_only": true,
